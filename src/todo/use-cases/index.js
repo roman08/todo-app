@@ -1,2 +1,6 @@
-export { renderTodos } from './render-todo';
+
+
 export { createHTML } from'./create-todo-html';
+export { renderPending } from './render-pending';
+export { renderTodos } from './render-todo';
+
